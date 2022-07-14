@@ -12,7 +12,7 @@ file = open(name + "/src/routes/index.svelte", "w")
 file.write("""<div class="hero min-h-screen bg-base-200">
     <div class="hero-content text-center">
       <div class="max-w-md">
-        <h1 class="text-5xl font-bold">FCK IT</h1>
+        <h1 class="text-5xl font-bold">FKIT</h1>
         <p class="py-6">"Bleeding Edge Tech Stack for 2025"</p>
         <a class="btn btn-primary" href="/getting-started/">Get Started</a>
       </div>
